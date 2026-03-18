@@ -28,3 +28,5 @@ plant stress conditions in chili leaves using transfer learning.
 ## Status
 This project is part of an ongoing academic exploration.
 The accompanying research paper is currently in preparation.
+##Working model
+A web interface of this model is deployed in hugging face spaces:https://huggingface.co/spaces/Kamal-Sha/Chilli-Classification
