@@ -1,8 +1,8 @@
-# Nano-Vision: Chili Leaf Classification (Prototype)
+# Nano-Vision: Chilli Leaf Classification (Prototype)
 
 ## Overview
 This repository contains a prototype image classification system for identifying
-plant stress conditions in chili leaves using transfer learning.
+plant stress conditions in chilli leaves using transfer learning.
 
 ## Model
 - Architecture: EfficientNetB0 (pretrained on ImageNet)
@@ -28,5 +28,5 @@ plant stress conditions in chili leaves using transfer learning.
 ## Status
 This project is part of an ongoing academic exploration.
 The accompanying research paper is currently in preparation.
-##Working model
-A web interface of this model is deployed in hugging face spaces:https://huggingface.co/spaces/Kamal-Sha/Chilli-Classification
+## Working model
+A web interface of this model is deployed in Hugging Face Spaces: https://huggingface.co/spaces/Kamal-Sha/Chilli-Classification
